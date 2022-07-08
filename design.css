@@ -1,0 +1,151 @@
+body{
+    background-color: darkblue;
+    border: 10px solid lightgoldenrodyellow;
+}
+#myhobbies{
+    border: 10px solid lightblue;
+    right: 50px;
+    padding: 0px;
+    margin-top: -1%;
+    background-color: white;
+    color: red;
+    text-align: center;
+}
+#bodydesign{
+    margin-bottom: -10%;
+    border-top: 5px solid ;
+    padding-top: 5%;
+}
+#head1{
+    font-size: xx-large;
+    position: absolute;
+    background-color:white;
+    color: blue;
+    margin-top: -4%;
+    margin-left: 33%;
+    text-align:center;
+}
+
+#aboutme{
+    border: 5px solid ;
+    background-color:lightgreen;
+}
+#aboutme1{
+    background-color:rgb(196, 185, 185);
+}
+#image2text{
+    font-size: x-large;
+    margin-left: 5%;
+    margin-top: -9%;
+}
+#image2{
+    border: 2px solid black;
+}
+#aboutmetext{
+    color: blue;
+}
+#personalinerestes{
+    padding: 50%;
+    padding-left: 60%;
+}
+#sport{
+    text-align: center;
+    padding-left: 45%;
+    border-collapse:collapse;
+    margin-left: 40%;
+
+}
+#o1{
+    text-align: left;
+}
+#navimg{
+    shape-image-threshold:circle;
+}
+#image1{
+    clip-path: circle();
+}
+#myinfo{
+    color: rgb(102, 8, 174);
+    background-color: rgb(169, 215, 215);
+}
+#thank{
+    color: red;
+    background-color: rgb(26, 232, 215);
+}
+#table{
+    background-color: aqua;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 3%;
+}
+#table1{
+    background-color:rgb(140, 205, 207);
+}
+#pi{
+    background-color: skyblue;
+    font-size: xx-large;
+    color: blue;
+}
+#subtop{
+    background-color: lightcyan;
+}
+#scienceresearch{
+    color: deeppink;
+    font-size: x-large;
+}
+#readwrite{
+    color: darkorchid;
+    font-size: x-large;
+}
+#sports{
+    color: darkorange;
+    font-size: x-large;
+}
+#webdesign{
+    color: darkmagenta;
+    font-size: x-large;
+}
+#politics{
+    color: darkred;
+    font-size: x-large;
+}
+#others{
+    color: rgb(231, 25, 25);
+    font-size: x-large;
+}
+#paragraph{
+    color:rgb(215, 126, 126);
+}
+#aside{
+    background-color: rgb(146, 253, 255);
+    border: 5px solid blue;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+#image{
+    border: 5px solid black;
+    margin-left: 35%;
+}
+#foot{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    position: absolute;
+    padding-bottom: -5%;
+    padding-left: 68%;
+}
+#more{
+    text-align: end;
+    position: absolute;
+    padding-left: -30%;
+    padding-top: 5%;
+    color: aqua;
+    background-color: black;
+    font-size: x-large;
+}
+#picolor{
+    text-decoration: none;
+}
+#color3{
+    color: darkmagenta;
+}
